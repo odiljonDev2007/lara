@@ -1,0 +1,32 @@
+# Laravel specific
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.phpunit.result.cache
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.swp
+*.swo
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Composer
+composer.lock
+
+# Laravel Mix
+public/mix-manifest.json
+public/hot

@@ -1,0 +1,12 @@
+# Ensure consistent line endings for text files
+* text=auto
+
+# Normalize line endings for specific file types
+*.php text
+*.js text
+*.css text
+*.html text
+*.md text
+*.yml text
+*.yaml text
+*.env text
